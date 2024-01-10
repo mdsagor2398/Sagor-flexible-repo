@@ -1,0 +1,56 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.saide {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    box-shadow: 10px 20px 10px gray;
+    padding: 20px;
+    border-radius: 9px;
+    margin: 30px;
+
+}
+
+.color {
+    color: red;
+
+}
+
+.election {
+    color: rgb(234, 0, 255);
+    text-align: center;
+}
+
+#Bangladesh {
+    border-left: solid 7px orangered;
+    background-color: bisque;
+
+}
+
+#india {
+    border-left: solid 7px rgb(0, 0, 0);
+    background-color: bisque;
+}
+
+#break {
+    text-align: center;
+    font-size: 50px;
+}
+
+.flexible {
+    background-image: url(raund\ logo\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+footer p {
+    text-align: center;
+}
+
+.link {
+    padding-left: 800px;
+}
