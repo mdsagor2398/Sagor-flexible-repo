@@ -54,3 +54,8 @@ footer p {
 .link {
     padding-left: 800px;
 }
+
+.good {
+    color: rgb(0, 255, 106);
+    text-align: center;
+}
